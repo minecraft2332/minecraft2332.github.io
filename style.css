@@ -1,0 +1,12 @@
+/* 色 */
+
+h1 {
+    color: rgb(237, 156, 156);
+    background-color: rgb(255, 255, 192);
+}
+
+body {
+  text-shadow: 1px 1px 3px black;
+  background-color: lightblue;
+  padding: 20px;
+}
